@@ -6,8 +6,9 @@ This project explores microbial data using the D3.js library to interpret and vi
 
 ## Deployment
 Check out my interactive dashboard on microbial ecosystems here: [Visualizing Microbial Ecosystems](https://paoloarciaga.github.io/belly-button-challenge/)
-    - Used D3 library to read samples.json from provided URL. 
-    - Updated all plots when a new sample was selected.
+
+- Used D3 library to read samples.json from provided URL. 
+- Updated all plots when a new sample was selected.
 
 ## Features 
 
