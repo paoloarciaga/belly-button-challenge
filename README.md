@@ -12,6 +12,7 @@ Check out my interactive dashboard on microbial ecosystems here: [Visualizing Mi
 - Updated all plots when a new sample was selected.
 
 Select a Test Subject ID No. from the dropdown menu to update the visualizations with data specific to that individual.
+
 Hover over the charts to see additional details about the bacteria cultures and their frequencies.
 
 ## Features 
