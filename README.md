@@ -10,9 +10,9 @@ Check out my interactive dashboard on microbial ecosystems here: [Visualizing Mi
 ## Features 
 1. Used D3 library to read samples.json from provided URL.
 2. ### Horizontal Bar Chart with a dropdown menu for the top 10 OTUs.
-  - Used sample_values as chart values.
-  - Used otu_ids as labels.
-  - Used otu_labels for hovertext.
+    - Used sample_values as chart values.
+    - Used otu_ids as labels.
+    - Used otu_labels for hovertext.
 3. ### Bubble Chart displaying each sample.
   - Used otu_ids for x values.
   - Used sample_values for y values and marker size.
