@@ -8,20 +8,20 @@ This project explores microbial data using the D3.js library to interpret and vi
 Check out my interactive dashboard on microbial ecosystems here: [Visualizing Microbial Ecosystems](https://paoloarciaga.github.io/belly-button-challenge/)
 
 ## Features 
-- Used D3 library to read samples.json from provided URL.
-- ### Horizontal Bar Chart with a dropdown menu for the top 10 OTUs.
+1. Used D3 library to read samples.json from provided URL.
+2. ### Horizontal Bar Chart with a dropdown menu for the top 10 OTUs.
   - Used sample_values as chart values.
   - Used otu_ids as labels.
   - Used otu_labels for hovertext.
-- ### Bubble Chart displaying each sample.
+3. ### Bubble Chart displaying each sample.
   - Used otu_ids for x values.
   - Used sample_values for y values and marker size.
   - Used otu_ids for marker colors.
   - Used otu_labels for text values.
-- ### Demographic Information Panel with sample metadata. 
+4. ### Demographic Information Panel with sample metadata. 
   - Displayed key-value pairs from the metadata JSON object on the page.
-- ### Gauge Chart
+5. ### Gauge Chart
   - Displayed the weekly washing frequency of the selected individual
-- Updated all plots when a new sample was selected.
+6. Updated all plots when a new sample was selected.
 
 I worked with my tutor who helped edited parts of my code such as initializing the page with the first sample, and the sections where I edit the gauge chart. Upon doing so, I was able to complete this project and successfully deploy my dashboard to GitHub pages. 
