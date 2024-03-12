@@ -9,18 +9,18 @@ Check out my interactive dashboard on microbial ecosystems here: [Visualizing Mi
 
 ## Features 
 - Used D3 library to read samples.json from provided URL.
-- ## Horizontal Bar Chart with a dropdown menu for the top 10 OTUs.
+- ### Horizontal Bar Chart with a dropdown menu for the top 10 OTUs.
   - Used sample_values as chart values.
   - Used otu_ids as labels.
   - Used otu_labels for hovertext.
-- ## Bubble Chart displaying each sample.
+- ### Bubble Chart displaying each sample.
   - Used otu_ids for x values.
   - Used sample_values for y values and marker size.
   - Used otu_ids for marker colors.
   - Used otu_labels for text values.
-- ## Demographic Information Panel with sample metadata. 
+- ### Demographic Information Panel with sample metadata. 
   - Displayed key-value pairs from the metadata JSON object on the page.
-- ## Gauge Chart
+- ### Gauge Chart
   - Displayed the weekly washing frequency of the selected individual
 - Updated all plots when a new sample was selected.
 
