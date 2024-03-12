@@ -17,7 +17,7 @@ Hover over the charts to see additional details about the bacteria cultures and 
 
 ## Features 
 
-**1. Horizontal Bar Chart**: Top 10 OTUs found for the selected individual in the dropdown menu.
+- **1. Horizontal Bar Chart**: Top 10 OTUs found for the selected individual in the dropdown menu.
   - Used sample_values as chart values.
   - Used otu_ids as labels.
   - Used otu_labels for hovertext.
