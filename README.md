@@ -12,8 +12,8 @@ Check out my interactive dashboard on microbial ecosystems here: [Visualizing Mi
 
 ## Features 
 
-1. ### Horizontal Bar Chart with a dropdown menu for the top 10 OTUs.
-    - Used sample_values as chart values.
+### 1. Horizontal Bar Chart with a dropdown menu for the top 10 OTUs.
+- Used sample_values as chart values.
     - Used otu_ids as labels.
     - Used otu_labels for hovertext.
 2. ### Bubble Chart displaying each sample.
