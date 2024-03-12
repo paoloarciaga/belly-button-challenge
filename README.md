@@ -18,17 +18,15 @@ Hover over the charts to see additional details about the bacteria cultures and 
 ## Features 
 
 - **Horizontal Bar Chart**: Top 10 OTUs found for the selected individual in the dropdown menu.
-
-  - Used sample_values as chart values.
-  - Used otu_ids as labels.
-  - Used otu_labels for hovertext.
+    - Used sample_values as chart values.
+    - Used otu_ids as labels.
+    - Used otu_labels for hovertext.
 
 - **Bubble Chart**: Displays each sample.
-
-  - Used otu_ids for x values.
-  - Used sample_values for y values and marker size.
-  - Used otu_ids for marker colors.
-  - Used otu_labels for text values.
+    - Used otu_ids for x values.
+    - Used sample_values for y values and marker size.
+    - Used otu_ids for marker colors.
+    - Used otu_labels for text values.
 
 - **Demographic Information Panel**: Displays the demographic information of the selected individual
   - Displayed key-value pairs from the metadata JSON object on the page.
