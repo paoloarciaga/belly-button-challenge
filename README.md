@@ -17,21 +17,21 @@ Hover over the charts to see additional details about the bacteria cultures and 
 
 ## Features 
 
-- **1. Horizontal Bar Chart**: Top 10 OTUs found for the selected individual in the dropdown menu.
+- **Horizontal Bar Chart**: Top 10 OTUs found for the selected individual in the dropdown menu.
   - Used sample_values as chart values.
   - Used otu_ids as labels.
   - Used otu_labels for hovertext.
 
-**2. Bubble Chart**: Displays each sample.
+- **Bubble Chart**: Displays each sample.
   - Used otu_ids for x values.
   - Used sample_values for y values and marker size.
   - Used otu_ids for marker colors.
   - Used otu_labels for text values.
 
-**3. Demographic Information Panel**: Displays the demographic information of the selected individual
+- **Demographic Information Panel**: Displays the demographic information of the selected individual
   - Displayed key-value pairs from the metadata JSON object on the page.
 
-**4. Gauge Chart**
+- **Gauge Chart**
   - Displayed the weekly washing frequency of the selected individual
 
 I worked with my tutor who helped edited parts of my code such as initializing the page with the first sample, and the sections where I edit the gauge chart. Upon doing so, I was able to complete this project and successfully deploy my dashboard to GitHub pages. 
