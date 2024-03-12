@@ -18,14 +18,15 @@ Check out my interactive dashboard on microbial ecosystems here: [Visualizing Mi
 - Used otu_labels for hovertext.
 
 **2. Bubble Chart displaying each sample.**
-    - Used otu_ids for x values.
-    - Used sample_values for y values and marker size.
-    - Used otu_ids for marker colors.
-    - Used otu_labels for text values.
+- Used otu_ids for x values.
+- Used sample_values for y values and marker size.
+- Used otu_ids for marker colors.
+- Used otu_labels for text values.
 
-3. ### Demographic Information Panel with sample metadata. 
-    - Displayed key-value pairs from the metadata JSON object on the page.
-4. ### Gauge Chart
-    - Displayed the weekly washing frequency of the selected individual
+**3. Demographic Information Panel with sample metadata.**
+- Displayed key-value pairs from the metadata JSON object on the page.
+
+**4. Gauge Chart**
+- Displayed the weekly washing frequency of the selected individual
 
 I worked with my tutor who helped edited parts of my code such as initializing the page with the first sample, and the sections where I edit the gauge chart. Upon doing so, I was able to complete this project and successfully deploy my dashboard to GitHub pages. 
