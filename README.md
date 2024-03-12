@@ -13,15 +13,16 @@ Check out my interactive dashboard on microbial ecosystems here: [Visualizing Mi
 ## Features 
 
 **1. Horizontal Bar Chart with a dropdown menu for the top 10 OTUs.**
-    
-    - Used sample_values as chart values.
-    - Used otu_ids as labels.
-    - Used otu_labels for hovertext.
+- Used sample_values as chart values.
+- Used otu_ids as labels.
+- Used otu_labels for hovertext.
+
 **2. Bubble Chart displaying each sample.**
     - Used otu_ids for x values.
     - Used sample_values for y values and marker size.
     - Used otu_ids for marker colors.
     - Used otu_labels for text values.
+
 3. ### Demographic Information Panel with sample metadata. 
     - Displayed key-value pairs from the metadata JSON object on the page.
 4. ### Gauge Chart
